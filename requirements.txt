@@ -1,0 +1,15 @@
+#
+# Conda configuration
+# conda create  --yes --name XX python=3.10
+# conda install --yes --name XX --file requirements.txt
+#
+# VirtualEnv
+# python -m venv venv
+# source venv/bin/activate
+# pip install --upgrade pip
+#
+
+
+requests
+tabulate
+pyinstaller
