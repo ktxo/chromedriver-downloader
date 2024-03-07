@@ -21,8 +21,8 @@ See Chromedriver page https://chromedriver.chromium.org/ for availables endpoint
 python build_exe.py
 ```
 
-## Pending
-Build binary for window. 
+## Releases
+There are a Linux/Windows executable (standalone)
 
 
 
